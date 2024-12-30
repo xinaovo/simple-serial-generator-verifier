@@ -1,0 +1,7 @@
+/build/
+/dist/
+*.spec
+*.csv
+*.xlsx
+*.bat
+/.vscode/
